@@ -1,0 +1,9 @@
+__pycache__
+compressed/
+models/
+testing/
+wandb/
+
+lossy_image_compression_with_compressive_AE.pdf
+train_wandb.py
+
