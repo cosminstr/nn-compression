@@ -14,3 +14,8 @@ neural networks for compression, so maybe it helps someone to avoid my naive app
 all the feature maps on disk will not result in compression :/).
 
 You would be better of by starting from [here](https://github.com/facebookresearch/NeuralCompression?tab=readme-ov-file).
+
+## original image vs decompressed image
+
+![image](https://github.com/cosminstr/nn-compression/blob/main/imgs/2007_000333.jpg)
+![decompressed_image](https://github.com/cosminstr/nn-compression/blob/main/imgs/decompressed_image.jpg)
