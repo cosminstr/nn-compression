@@ -17,5 +17,8 @@ You would be better of by starting from [here](https://github.com/facebookresear
 
 ## original image vs decompressed image
 
+The U-NET is also not doing a good job at reconstructing the input, but the purpose of this project was not
+to train a competent model for this task, rather to just try to make a compression tool.
+
 ![image](https://github.com/cosminstr/nn-compression/blob/main/imgs/2007_000333.jpg)
 ![decompressed_image](https://github.com/cosminstr/nn-compression/blob/main/imgs/decompressed_image.jpg)
