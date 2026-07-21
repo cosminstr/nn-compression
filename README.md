@@ -23,5 +23,7 @@ You can find a better starting point for practical neural compression [here](htt
 
 The U-NET was not optimized for high-quality reconstruction, as the goal of this project was to explore the concept rather than achieve a competitive network for image reconstruction.
 
+Here is an example of the original image and the one obtained from the "decompress" binary, which received the "compressed" file (the latent bottleneck) as input. Not great.
+
 ![image](https://github.com/cosminstr/nn-compression/blob/main/imgs/2007_000333.jpg)
 ![decompressed_image](https://github.com/cosminstr/nn-compression/blob/main/imgs/decompressed_image.jpg)
